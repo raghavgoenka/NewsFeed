@@ -9,5 +9,5 @@ NewsFeed app which uses https://newsapi.org/ news api to get latest news and dis
 
 Used Library and Documentation 
 
-Volley  for api calls [https://developer.android.com/training/volley]
-Glide to get image from the image link [https://github.com/bumptech/glide]
+Volley  for api calls https://developer.android.com/training/volley \n
+Glide to get image from the image link https://github.com/bumptech/glide
